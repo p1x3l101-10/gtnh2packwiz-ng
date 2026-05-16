@@ -1,0 +1,42 @@
+name: Regenerate Configs
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  convert_pack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Install Nushell"
+        uses: hustcer/setup-nu@v3
+        with:
+          version: "0.112.2"
+      - name: "Checkout tooling"
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: "Assemble gtnh version in packwiz format"
+        run: ./gtnh2packwiz-ng.nu
+      - name: "Apply overlays"
+        run: ./overlay.nu
+      - name: "Prep outputs for upload"
+        run: |
+          mkdir out
+          mv gtnh out/base
+          mv gtnh-patched out/patched
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+  deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build_packwiz_packs
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
