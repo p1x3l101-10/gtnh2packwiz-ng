@@ -361,6 +361,10 @@ file = "config/NotEnoughEnergistics.cfg"
 hash = "05a6cbd20ed86b6bec5ed2675f53728d3410edbd468bdcd84e687a8ca2cd003f"
 
 [[files]]
+file = "config/OpenComputers.cfg"
+hash = "9bc3efc5cc4478968cf88f4a0ab61bb5b05089f282f1b59b9ace7798268acc9a"
+
+[[files]]
 file = "config/Opis.cfg"
 hash = "3011dc59345e98db422113cdd8d80c02d6dd58fd2fb554f5aa36ff28e4643a92"
 
