@@ -1,6 +1,6 @@
 name = "SkinPort"
 filename = "SkinPort-1.7.10-v10d.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"

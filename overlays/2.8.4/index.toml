@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamicsurroundings.pw.toml"
-hash = "2a99eb2f7077dc5c43f71bef96902ceb3e6892b734fe87f5a1a6132851054084"
+hash = "e899fdd0c405aabad0ccc52cfd0d509f7853621777d53be5bd888de52ae252b9"
 metafile = true
 
 [[files]]
@@ -851,12 +851,12 @@ metafile = true
 
 [[files]]
 file = "mods/skinport.pw.toml"
-hash = "3126ef4d714e0dfad2f05ef5cfa11b1299988e9236c99a9b89f50d4daeb30cea"
+hash = "b01b1cfde69f6bef6d5bbd99e40dfd6339d302b4c7125c6d0c88972c3d1a9ca4"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics.pw.toml"
-hash = "ff41fc6f854b4779f8f7f4a5f0f2869f845b7c078f29d629cf23c2bef5d759f2"
+hash = "2b5114f15819180903cae8c5a40f95d8af8fdf042f715b03f61fe8b0d800512c"
 metafile = true
 
 [[files]]

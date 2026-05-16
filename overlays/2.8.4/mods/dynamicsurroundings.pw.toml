@@ -1,6 +1,6 @@
 name = "DynamicSurroundings"
 filename = "DynamicSurroundings-1.7.10-1.0.7.7.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/mist475/DynamicSurroundings/releases/download/1.0.7.7/DynamicSurroundings-1.7.10-1.0.7.7.jar"
