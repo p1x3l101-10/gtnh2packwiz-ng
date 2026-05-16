@@ -828,11 +828,6 @@ hash = "51115898d3a091d88899b3faa31dc8a40be9faa395f9c3c147e09b3c037d5c3a"
 metafile = true
 
 [[files]]
-file = "mods/ezstorage.pw.toml"
-hash = "709a1c4cc96610507b6f60bf08a4d170709be6fa706b7f87f95e215af2d0a365"
-metafile = true
-
-[[files]]
 file = "mods/gregtoriooverlays.pw.toml"
 hash = "8d2ecbc1ac6e5d174c66bd5a3f070f194f079d53bf188c693287fa565b9eb245"
 metafile = true
@@ -937,4 +932,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "02c95c3b152987e43cc736abcb3b8096e018b1b086c72c973993ebc96a23de62"
+hash = "d18e649e54dd92ac3ace1bee096c66784351d26af95f87543929e0f141deea78"
