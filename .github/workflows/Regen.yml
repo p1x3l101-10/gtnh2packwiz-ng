@@ -36,7 +36,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build_packwiz_packs
+    needs: convert_pack
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
