@@ -605,10 +605,6 @@ file = "config/dsurround/dsurround.cfg"
 hash = "aba4616000b16b5cf53b360ab774d2ae0e2b6dcc26480a925c23db8e838cd4a3"
 
 [[files]]
-file = "config/e4mc-retro/e4mc-retro.toml"
-hash = "e7cf50466141e7785bd3cc385922679368ba2d943faaed4b4e78d6e5ae4ba0b2"
-
-[[files]]
 file = "config/endercore/cropConfig.json"
 hash = "9013767cf42aaf9ef10ce5a0aa45cab58aa9d536020c02b1eac8bd8fe01bf626"
 
@@ -639,10 +635,6 @@ hash = "bdbbe13ee7d4e668afde39de57beac06c6d9e3e297febe0e83b610369e65b316"
 [[files]]
 file = "config/enderio/SliceAndSpliceRecipes_Core.xml"
 hash = "3a843409b5f4aec2127d8c1b36589919f576114c33ca6dcaa2d307b459994fa4"
-
-[[files]]
-file = "config/ezstorage.cfg"
-hash = "2a7043355062ec3bc3631e4ed3acb056cc5fb1ab8d4d58871b12a1b7cd3276b9"
 
 [[files]]
 file = "config/goverlays.cfg"
@@ -820,11 +812,6 @@ metafile = true
 [[files]]
 file = "mods/dynamicsurroundings.pw.toml"
 hash = "2a99eb2f7077dc5c43f71bef96902ceb3e6892b734fe87f5a1a6132851054084"
-metafile = true
-
-[[files]]
-file = "mods/e4mc-retro.pw.toml"
-hash = "51115898d3a091d88899b3faa31dc8a40be9faa395f9c3c147e09b3c037d5c3a"
 metafile = true
 
 [[files]]
