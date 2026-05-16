@@ -1,0 +1,15 @@
+name = "Sound-Physics"
+filename = "soundphysics-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mist475/Sound-Physics/releases/download/1.1.1/soundphysics-1.1.1.jar"
+hash-format = "sha256"
+hash = "d5c80ec6fcf46d16482380b0c88a4e0324862c5ad770b0feee15f7346947102a"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "mist475/Sound-Physics"
+tag = "1.1.1"

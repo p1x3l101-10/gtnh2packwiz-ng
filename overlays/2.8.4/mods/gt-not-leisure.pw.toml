@@ -1,0 +1,15 @@
+name = "GT-Not-Leisure"
+filename = "sciencenotleisure-0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ABKQPO/GT-Not-Leisure/releases/download/0.2.5/sciencenotleisure-0.2.5.jar"
+hash-format = "sha256"
+hash = "b78ccc77a119ab68cd1d33701b6d924d6e5e6b5f1f9aa7e4c8f8d5b39adf513a"
+
+[update]
+[update.github]
+branch = "dev-280"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ABKQPO/GT-Not-Leisure"
+tag = "0.2.5"

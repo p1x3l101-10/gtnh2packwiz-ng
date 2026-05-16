@@ -1,0 +1,13 @@
+name = "SkinPort"
+filename = "SkinPort-1.7.10-v10d.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "6f5d80220e6f763623ef16802c991da2cec6396099915f6137f6b41b483e939b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3212017
+project-id = 234948

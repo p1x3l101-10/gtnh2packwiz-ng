@@ -1,0 +1,13 @@
+name = "e4mc Retro"
+filename = "e4mc-retro_forge-1.0.2+1.7.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L6TtRc14/versions/Ljbk9kCg/e4mc-retro_forge-1.0.2%2B1.7.x.jar"
+hash-format = "sha256"
+hash = "f414af62c468bb8b9d780866bb7283fa2a9fb1c8c166e95a1ab5717fb61de300"
+
+[update]
+[update.modrinth]
+mod-id = "L6TtRc14"
+version = "Ljbk9kCg"

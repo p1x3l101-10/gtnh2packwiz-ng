@@ -1,0 +1,15 @@
+name = "GregtorioOverlays"
+filename = "goverlays-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ah-OOG-ah/GregtorioOverlays/releases/download/1.1.2/goverlays-1.1.2.jar"
+hash-format = "sha256"
+hash = "46c7de5a9317f1a3a786a7d1778b90120e4ab993a441bdeea526e94d22420752"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ah-OOG-ah/GregtorioOverlays"
+tag = "1.1.2"

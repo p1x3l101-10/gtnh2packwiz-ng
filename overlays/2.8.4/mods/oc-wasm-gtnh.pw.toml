@@ -1,0 +1,15 @@
+name = "OC-Wasm-GTNH"
+filename = "ocwasm-1.7.10-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DCNick3/OC-Wasm-GTNH/releases/download/1.7.10-0.5.2/ocwasm-1.7.10-0.5.2.jar"
+hash-format = "sha256"
+hash = "b0c31d5b1281402aad8a3c4ba2cec66239711edaec15f87e5f34e34dc69b9de9"
+
+[update]
+[update.github]
+branch = "gtnh"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "DCNick3/OC-Wasm-GTNH"
+tag = "1.7.10-0.5.2"

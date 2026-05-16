@@ -1,0 +1,8 @@
+name = "medium-large-turbine"
+filename = "Medium.Large.Turbine.zip"
+side = "both"
+
+[download]
+url = "https://github.com/user-attachments/files/23664839/Medium.Large.Turbine.zip"
+hash-format = "sha256"
+hash = "0fa91828c32205f9625f324210c763a113df712bbe0c38b2b83504cc61c60fa6"

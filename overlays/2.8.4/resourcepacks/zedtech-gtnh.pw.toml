@@ -1,0 +1,13 @@
+name = "Zedtech-GTNH"
+filename = "Zedtech-GTNH-1.5.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "4fbb34dc28ede7f401e1c8a4eb1b9c1775f5092f0b6b5e664ef335596a1e3d82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7981597
+project-id = 1333595

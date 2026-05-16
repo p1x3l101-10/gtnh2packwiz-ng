@@ -1,0 +1,15 @@
+name = "NH-Utilities"
+filename = "NHUtilities-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Keriils/NH-Utilities/releases/download/1.6.4/NHUtilities-1.6.4.jar"
+hash-format = "sha256"
+hash = "403b4dea9ee0eb3c62523c7fcc9703f3372fd6149385155536b8ca858d0c7c42"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Keriils/NH-Utilities"
+tag = "1.6.4"

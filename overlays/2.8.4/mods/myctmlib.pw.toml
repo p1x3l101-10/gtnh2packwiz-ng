@@ -1,0 +1,15 @@
+name = "MyCTMLib"
+filename = "MyCTMLib-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ABKQPO/MyCTMLib/releases/download/1.2.7/MyCTMLib-1.2.7.jar"
+hash-format = "sha256"
+hash = "1098bbe4fdba213b4753f4b8f70eedc41dc8789ed9aed9ba1613ebc52f8a766a"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ABKQPO/MyCTMLib"
+tag = "1.2.7"

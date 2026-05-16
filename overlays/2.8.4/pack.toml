@@ -1,0 +1,12 @@
+name = "overlay"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f83e78535472f5c1226371ec3783569535f6743fe513575f2a62bbbc2b68dd08"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

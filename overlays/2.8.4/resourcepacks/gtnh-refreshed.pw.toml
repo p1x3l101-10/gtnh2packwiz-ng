@@ -1,0 +1,8 @@
+name = "gtnh-refreshed"
+filename = "GTNHRefreshed.V0.7.zip"
+side = "both"
+
+[download]
+url = "https://github.com/BlueHero233/GTNHRefreshed/releases/download/v0.7/GTNHRefreshed.V0.7.zip"
+hash-format = "sha256"
+hash = "aea6e863ef1f81041191cf9e13a7c7578c42b194881832a40d1ead89aa02e682"
