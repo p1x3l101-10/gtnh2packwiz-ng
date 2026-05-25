@@ -1,0 +1,8 @@
+name = "modernity-just-productive-bees"
+filename = "Modernity-GTNHAddon-Just-Productive-Bees.zip"
+side = "both"
+
+[download]
+url = "https://github.com/user-attachments/files/19155444/Just.Productive.Bees.1.1.zip"
+hash-format = "sha256"
+hash = "fb75c448f1a8c3b99b0c8bf2c212a14479f00385df1b7455c4171b8294f0401e"

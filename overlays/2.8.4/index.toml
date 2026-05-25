@@ -864,28 +864,12 @@ hash = "2b5114f15819180903cae8c5a40f95d8af8fdf042f715b03f61fe8b0d800512c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Modernity-GTNH-Dark-UI.zip"
-hash = "8af6e85e4b59f66a500b79dd9ffcdfa3a5c13689997cd259cac99a00443b8eba"
-
-[[files]]
-file = "resourcepacks/Modernity-GTNH-UI.zip"
-hash = "f24f45d2d894a3355feafd43d444cbf6cf19254eee0c0d18c7d4bc1c797bfd3e"
-
-[[files]]
 file = "resourcepacks/Modernity-GTNH.zip"
 hash = "5b77014b12ba4c271ddb884a1198391d37ddabed05fe5d3af72172722616f7ba"
 
 [[files]]
 file = "resourcepacks/Modernity-GTNHAddon-GTNLResonaticCircuit.zip"
 hash = "684188d78b931b58f6178a502ebe9386b9063a97eaea83e062d73ec718c10e11"
-
-[[files]]
-file = "resourcepacks/Modernity-GTNHAddon-Just-Forestry-Bees.zip"
-hash = "c69fdb981c1093394d3fd50d9d9eae42cee534aecba1d52ed68bcb4271eb61fc"
-
-[[files]]
-file = "resourcepacks/Modernity-GTNHAddon-Just-Productive-Bees.zip"
-hash = "b8c23b96a0633d548a20564fb18e562c84befb0efff36e25e78178ca67b706f3"
 
 [[files]]
 file = "resourcepacks/Modernity-GTNHAddon-NoMixinColorGCHeavyMaterial.zip"
@@ -909,6 +893,26 @@ metafile = true
 [[files]]
 file = "resourcepacks/modernity-adjunct.pw.toml"
 hash = "d3e312876ea1161bd11d98b9e77d068acf14ea825b9e6dafeb9b86d9e8ea6f91"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity-gtnh-dark-ui.pw.toml"
+hash = "fef69371a4469d1f4821bcb52282f8dbee20d23b36c691b6959f4549ad623892"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity-gtnh-ui.pw.toml"
+hash = "6f5af87bb68e6cdd6637040302158f49666b2a3f3198114753787a8f5b1e90a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity-just-forestry-bees.pw.toml"
+hash = "eedb6ce95e1c41a2327d5955acce41321c89e1361985cb714e145a0de481926d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity-just-productive-bees.pw.toml"
+hash = "5f2130ad00d12b7cd30df066e1fd0e6daf5fa283e25747df285ff0409dc5505e"
 metafile = true
 
 [[files]]

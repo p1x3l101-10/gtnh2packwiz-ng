@@ -1,0 +1,8 @@
+name = "modernity-just-forestry-bees"
+filename = "Modernity-GTNHAddon-Just-Forestry-Bees.zip"
+side = "both"
+
+[download]
+url = "https://github.com/user-attachments/files/19151893/Just.Forestry.Bees.zip"
+hash-format = "sha256"
+hash = "c8a3f06d1ca06f50bdd1af9a75f5727d2bd240cdc88e3aa71def36940623ed5a"
