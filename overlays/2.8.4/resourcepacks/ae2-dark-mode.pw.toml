@@ -1,15 +1,15 @@
 name = "AE2-Dark-Mode"
-filename = "AE2-Dark-Mode.v1.16.zip"
+filename = "AE2-Dark-Mode.v.1.17.zip"
 side = "both"
 
 [download]
-url = "https://github.com/Ranzuu/AE2-Dark-Mode/releases/download/v.1.16/AE2-Dark-Mode.v1.16.zip"
+url = "https://github.com/Ranzuu/AE2-Dark-Mode/releases/download/v.1.17/AE2-Dark-Mode.v.1.17.zip"
 hash-format = "sha256"
-hash = "7be396ea0af0bb702d1a68c87a0be319c8c6c4db4021d389f1f492aee33a500e"
+hash = "c98481afe537017e4d0a06090f995ec13bc38740d0364e21f27b8396bf350926"
 
 [update]
 [update.github]
 branch = "main"
 regex = ".*\\..*\\.zip"
 slug = "Ranzuu/AE2-Dark-Mode"
-tag = "v.1.16"
+tag = "v.1.17"

@@ -1,15 +1,15 @@
 name = "GTNHRates"
-filename = "gtnhrates-1.10.0-2.8.4.jar"
+filename = "gtnhrates-1.11.0-2.9-daily523.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Sladki/GTNHRates/releases/download/1.10.0-2.8.4/gtnhrates-1.10.0-2.8.4.jar"
+url = "https://github.com/Sladki/GTNHRates/releases/download/1.11.0-2.9-daily523/gtnhrates-1.11.0-2.9-daily523.jar"
 hash-format = "sha256"
-hash = "31324db9564eb2e15166f648db365f17743f4b3c5cc662ec088674e2d0c484d6"
+hash = "eeab9f34f5fded2a7d2abefddb89e16963f3efc4c5d8b5d49d98f940fd2bb66f"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Sladki/GTNHRates"
-tag = "1.10.0-2.8.4"
+tag = "1.11.0-2.9-daily523"

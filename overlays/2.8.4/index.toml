@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhrates.pw.toml"
-hash = "07449bf357dc5dd4132cab24c7fdbbd6e3fca8df65c77d80194e09458784d7c2"
+hash = "24d4d48d35bb4eb676ac561bc64966fc2d120ce26b1959e0bb7916a87360b70e"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ hash = "0bc17cd6951b1cb18c2a1daa0472f79ced9cb36929554b4b79b0830a05f3f6b8"
 
 [[files]]
 file = "resourcepacks/ae2-dark-mode.pw.toml"
-hash = "96258f18dbb233777543f1fce9e5bdd8ae8642e609a9476bb1f3130e45d0123f"
+hash = "89e7924d6d0e9a1da02498ca03c1999e1f44eef28858128765ed979ebf0305d5"
 metafile = true
 
 [[files]]
