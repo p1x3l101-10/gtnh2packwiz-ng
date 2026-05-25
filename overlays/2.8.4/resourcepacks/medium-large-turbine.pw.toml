@@ -1,6 +1,6 @@
 name = "medium-large-turbine"
 filename = "Medium.Large.Turbine.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/user-attachments/files/23664839/Medium.Large.Turbine.zip"

@@ -877,52 +877,52 @@ hash = "0bc17cd6951b1cb18c2a1daa0472f79ced9cb36929554b4b79b0830a05f3f6b8"
 
 [[files]]
 file = "resourcepacks/ae2-dark-mode.pw.toml"
-hash = "89e7924d6d0e9a1da02498ca03c1999e1f44eef28858128765ed979ebf0305d5"
+hash = "12c473f335d118fae33c302f3afb4240192d69492800938f73511a43a17b45d3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/gtnh-refreshed.pw.toml"
-hash = "0445ea23ab427a9f8d989d2683260eaa60269d931ec768bdd27b5e544a3ae908"
+hash = "d80978ec6b503b1e68890bd6af4608861406b27bf0d3f9f39f1327b6e131b2ca"
 metafile = true
 
 [[files]]
 file = "resourcepacks/medium-large-turbine.pw.toml"
-hash = "3f85cb4163950139dc0ab9afd0e0dc7187d4756ed2aa74fcf6dde8b4b85c1816"
+hash = "795c6e4b063ccf3bdaf3859ac84dd44dca569b23838a1d5ea2464d7023eeef12"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modernity-adjunct.pw.toml"
-hash = "d3e312876ea1161bd11d98b9e77d068acf14ea825b9e6dafeb9b86d9e8ea6f91"
+hash = "50274ef8f2b0b65587f89c7544eb9c5b02c6e2900892733d2ed4d81256049daa"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modernity-gtnh-dark-ui.pw.toml"
-hash = "fef69371a4469d1f4821bcb52282f8dbee20d23b36c691b6959f4549ad623892"
+hash = "ecb40e7e1bec16d1a3da0cd194a8813c5c024178d5e7e74dbfe75972c3cd6ba5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modernity-gtnh-ui.pw.toml"
-hash = "6f5af87bb68e6cdd6637040302158f49666b2a3f3198114753787a8f5b1e90a8"
+hash = "76496ab001d587b79e7f80c7554dca7e45b4c780a98df248209ab726cf0bda0c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modernity-just-forestry-bees.pw.toml"
-hash = "eedb6ce95e1c41a2327d5955acce41321c89e1361985cb714e145a0de481926d"
+hash = "32e29286b5a72a154b66a5860a9b12c30e8c8e38807cb2f79de09f5ff4762938"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modernity-just-productive-bees.pw.toml"
-hash = "5f2130ad00d12b7cd30df066e1fd0e6daf5fa283e25747df285ff0409dc5505e"
+hash = "2b9df4ab50e5ebbe8d88598812caed8cb4b7742605f3d956f36cce80c5979fa5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modernity.pw.toml"
-hash = "023e3997c41eb74738431442d3a7401701bd37944e05c9b76f698a3124d95659"
+hash = "7032438e812f010700cb9eb3d0c5a9509abe2bae7f770ac5735974ced5dccedb"
 metafile = true
 
 [[files]]
 file = "resourcepacks/zedtech-gtnh.pw.toml"
-hash = "f15aaef763a606c596dfd8940cdf8582073f60f9a1afe524e71ad7ea69ebb4d6"
+hash = "7fccd80a8dddc0afe36a42af2c4a959a0cf71531e88fa6deb6c528305d904799"
 metafile = true
 
 [[files]]

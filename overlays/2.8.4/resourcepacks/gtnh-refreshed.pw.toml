@@ -1,6 +1,6 @@
 name = "gtnh-refreshed"
 filename = "GTNHRefreshed.V0.7.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/BlueHero233/GTNHRefreshed/releases/download/v0.7/GTNHRefreshed.V0.7.zip"

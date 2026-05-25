@@ -1,6 +1,6 @@
 name = "modernity-just-forestry-bees"
 filename = "Modernity-GTNHAddon-Just-Forestry-Bees.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/user-attachments/files/19151893/Just.Forestry.Bees.zip"

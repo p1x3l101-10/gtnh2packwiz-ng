@@ -1,15 +1,14 @@
 name = "Modernity-GTNH-Dark-UI"
 filename = "Modernity-GTNH-Dark-UI.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI/releases/download/weekly-2026-05-25/Modernity-GTNH-Dark-UI-2026-05-25.zip"
 hash-format = "sha256"
 hash = "24fab410d2873a576cf9611bf5bc8600c3d933ee19fdea2e714263a54c14b66c"
 
-[update]
 [update.github]
 branch = "main"
-regex = ".*\\-[0-9]{4}.*\\.zip"
+regex = '.*\-[0-9]{4}.*\.zip'
 slug = "ModernityGTNH/Modernity-GTNH-Dark-UI"
 tag = "weekly-2026-05-25"

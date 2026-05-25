@@ -1,13 +1,12 @@
 name = "Modernity"
 filename = "Modernity-f1-3.10.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"
 hash = "e233080b4b3cf901b0e36cd3042d998ca07400905c2248434f777e3a61677205"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 5789806
 project-id = 300317
