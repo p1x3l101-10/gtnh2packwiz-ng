@@ -441,6 +441,742 @@ file = "config/betterp2p.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Cracking80inFort-CH5qiP0xSQeI8qSlmB-p8A==.json"
+hash = "4243e32d6bafb770ec796e95e88a68fc1fed39448ae719d367cefff188320a9c"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Idontworkunderpr-5rml588mTQSdm92-gs1LAQ==.json"
+hash = "6855757d73cf3412a308d192cb1147b245882b8f4a936b8a76e7a5c47d78d149"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Ihaveacrushinthi-Ymhfp3UzSliuqGDbf13R0A==.json"
+hash = "92a33e27356935dc8aec58b0e2e4211d5ea8463764c0ad7234ad4fb420d97ae2"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Imtiredboss-KYUX4gk1QGqVuPD7vm3vvg==.json"
+hash = "b12b41e718050a4d68f254da4926b7fd8b57fadaea15001f07d619458164c9b6"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/ItsaBirdItsaPlan-NXjnXNeZTHSee3us9R7wAA==.json"
+hash = "6725c50219dadd531200c2823fc387af54e88011fb6c91d995d6463fd01f8c2a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/LargeSteamCircui-CUKtyyJJRKKso_abB315Aw==.json"
+hash = "aa6b62a5165200f5cb85c1574b612274d0e31bc3aa5e33f1ad9a28774723eb05"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/LargeSteamSifter-Qcv_VVDDSkOnfaPnSI1Zag==.json"
+hash = "5f16011095b43b00ee134fe300b0174164e3a113eba5c789a8bcf288bcbf9dbc"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Letsstartthefun-EVhlJXyIR3SmEIhMTUdsWA==.json"
+hash = "60a16886aa357aace9cd910f40cc42f67c38cb9f2878620f25c092e188ba983c"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Likeabathbutitsm-HK2N5iIXRXW756SbVMwtFg==.json"
+hash = "9ce044261ae1891c459370173dbee86e8a03016b139cfa7e5263b09c7e94455e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Luxurybath-QpUkSgspQd-iMrURoH71Ig==.json"
+hash = "1ecbc11c340ed308b7b3a77c57ef16e998ee3abdd2999d864b9e8a59f9e3affc"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Morepotions-iOLi2d4BSQWEqzVXY6Zo4w==.json"
+hash = "5a9d9e818aa7359f6edb97110834a34a1956949ab18598d22a660ad96eb37b84"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Nextstepontherec-TWRjEHnkRAy7xrYiUi-HSQ==.json"
+hash = "76795bd548698e6dac393c47f5a8e096ac987649ed26a0f20da21a6221a2089e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Nojokesinthisone-BLoqkgLqSLmPobuYeMhXIw==.json"
+hash = "973508b578dd691367689a5f313be73369c535977f7eda7eea0c8ea01f0cfe9e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Onepiece-kgA5e3lzQ3-mSnGLPA4LcA==.json"
+hash = "fb795795f34a6f0d06fe6bb25f7382532f0ff1d3bcd37b29e01eae5cc9f96acc"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Potions-zeZf6CmWRsa3E7tMBjMCCw==.json"
+hash = "a75a20792c5135461996b993cef8af9be3b64fb3158bcab9ecb0154e423aa50d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/QuestLine.json"
+hash = "e5f4b940ff94cfef17ab5fb60770ee4f05ff30ae3b082d2be64d3beff414f5c2"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Steamisgoodhasgo-KCBZKAt_RASCzrjeb5iejg==.json"
+hash = "54882dfd49363631864af00795ecaf6412e5aa83734541c5c90ddc5e7ef9a73f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Thistimeitsnothu-IAzmh1pwRbayb3c436tQcw==.json"
+hash = "e743dc0aa6f37ebfbc9833023e3dcd9fdc88be604052670146d64e71d41a7fbe"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Timetoupdatethef-NUwNtPHBSQGCLg7prayusA==.json"
+hash = "8a5214b1ccbb846abc4dc19254625d495522ebcf79f8770745293fef209c94e2"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Titaniumsteam-uMKnfyp_R0Go3spxtK6DHQ==.json"
+hash = "e0950b839c5014f550c342f8f5fb466a20a1e134ae2a767ec40c7c9c6dc1c13a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Twoforone-DwDG-8-9RyG5po3ECpUb2Q==.json"
+hash = "a80a3e76339e2cc30368819fa54eaa7aa3bc1c544fc64cdf4e181756f304ee94"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Whatsortofmusicd-sLmbjGYlTYuHxpFynCb6rQ==.json"
+hash = "a508e272d791b05b30fd6131ceaa8188926651fca9916ba6b713fc65d3683d76"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/bigFurnace-7dKgjMt3T06JmnRpwBbhQg==.json"
+hash = "72dd35190a6b8882d06dc43e2480d1fa45baa721c1efe9fac5306ddca4c4a858"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/bighammer-ynfZHvovT6ikdjN_nbWTuw==.json"
+hash = "fbb79a886369f743d0cd5799017a5c0450b9dcdd5b5fb1317da2ccfe65be3d11"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/centrifugewithfi-Ef54PxtMTVeukSNN4OeC6w==.json"
+hash = "9351e9e4e9f2ee536f32931a8b45f98620523398ca78e26a6c46af00014af009"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/centrifugewithou-bLGH7bk7SfO3ncXts6YvtA==.json"
+hash = "46d076cd9b808d30ea5a69d0e5015cd189b5c18ae59310e63cf5c9e5bf752a1d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/likechangingthin-NwDsKCj6QjG1_qOSvFWXqw==.json"
+hash = "731845321917c03649efac3d37968f4c04ef82229571071bb4be6c1d2851ca96"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/meishungry-UODPZCyXT96ap5_4VL1FHA==.json"
+hash = "f518798643e568364b3af69d9638eee6fa210c181284b70bdc3ca697a20ff536"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/steelandsteamthe-N90e1qSpShi9PyEBevNu7w==.json"
+hash = "4f340f121930dda7d627835cd286dbdd581478c34ecc2201817d9be3a72bfc35"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/thesteamissafehe-BTIf3sCNQd63ETB87Rrxhw==.json"
+hash = "44c5706f151fbaf258043601a408e15a9abdca4ad50b7f12ee4e708d114a0d32"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/thetrilogy-FSdtZ5KAT7mqUP_9B6VKIg==.json"
+hash = "219485015d2dbf461ee92fdbfd9e5eab48ba40b8cb592c9e5e52efde62e7b1d0"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/theyarestealingo-5AtEGgphRoePy0wTLv4yeA==.json"
+hash = "7b13ed14991f29e73483ffdfae23035cf8666c84666bd9166c8a430b29584a24"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/theyarestealingo-AKTZ8OihTGKOo10UVUtm_A==.json"
+hash = "682e2950c3ca66988aa58d50432ce7affea1b9e95132cc5f60a153051f068303"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/theyarestealingo-v9BV-VNPRMaXhS0Sw-7lng==.json"
+hash = "febe906a4ae55f2a7f6e636fddca9cdccb8d48a1ceb01ceb734e8c2cc366ba58"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/thiscanhelpyou-zU5UVZqtRyy90-OguuXzgQ==.json"
+hash = "61d8f4d5d1df4b33ce94668dd7d5dfbc795b2ecf3313424e5091a9568c617814"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/toomuchsteam-FkeJvfnWSoOmpWaHBjABEQ==.json"
+hash = "506443975203da751855c17c047cd2767e327425526b99cca975845a9cd9f1cd"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/truthserum-KXRCN2BdRHS11E8yzDPQag==.json"
+hash = "6be9a9cbac92eaf1814ca002e09ff2f0c5654d7b011d7594261f971e88bb71eb"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/waitthatsnotbron-FfGW4aK1QV68FUDxMKY79g==.json"
+hash = "44b7b5da8f9999266e147238cb3c9687cfd7df5e466a4389da903485a25d4cab"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/waittheresasmall-35tEln3ESKSIFoatXK8zYA==.json"
+hash = "bfedce51b93cfe74cdca1a191f03b76b262d0596897f90969d0c291907a753d9"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/whyareyousodense-_oTOOgnIQDyClVMxKkaR9Q==.json"
+hash = "2a50d6ff570bda127eb19c7601b58ac017cb49349a523929ff71667b1e37659b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/wowniceplush-SxHiUbfQSP28-l1VYKavnw==.json"
+hash = "3a0178df96a911a65aa5a65636b93ef363a523619f612c2851ecce7129a9b391"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Betterblawaitami-RA9eXJDzS32-ustOxyHgrQ==.json"
+hash = "63d455bf271396643b28dc916e824815e73008055c3fcfcd96635687ca6b4bfe"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Blending-1QM7Ia08R1Gr_s_bDHiSyA==.json"
+hash = "edb825867df5724dd22c1fac0c9149ce177ed74f960507bb043b28bd8342a4db"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Breel-9hskX6EZQeG8jrVDU0K_hw==.json"
+hash = "a1c435d32708bdd7f9ff0363b707fa3ad4d442d0ed479d2ae9a62ea62a78a19d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/CactusWonder-SOJOLd3iRqmyYwt0H4f4BQ==.json"
+hash = "928d4234e09191535a52c597c76137c4bd9a5c11b8ec2d4dbc4a757a51d46d0b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Carpentry-KwkFvZTRRuuj8-M3KHy66A==.json"
+hash = "2bf3707f4645446245d31fe299e1e189582f1b1049be12d38b0b5bf2f751b745"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/ClassicCoke-qa6pQlvZRB6OvjdaBdVw9Q==.json"
+hash = "013245c66f1d5578f885a29d10ba88b1ff279daacc5d30909d05b89850553816"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/ClayCompound-6A4wnmpkTOa08s8Yuttsvw==.json"
+hash = "658e505afa4a9c5d4e2e48816d59110d080c392781ef835a89b674823d901fa8"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Conformingorpres-rcMamffGTseFyACA3i7zUQ==.json"
+hash = "dcbd0595309742a03991a2b8e9d8904114235920dd7ebefd9f3b261992a6cc71"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Credits-po4Ov0zsTbmn_zpuPQTyvQ==.json"
+hash = "3ed6f97aa9a32e7743272298a1b6b6f87ffa13ef8fc2fa802b58c67f820612dc"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Extractinating-SU-S_BoeStacdLPKW0_CGQ==.json"
+hash = "ee7bed8b091c25e8d6da2187f4929275f86738700af47bc39af3244f30220d4d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/ForgeoftheGods-SQo2-hr-TCasVo8_la0HKQ==.json"
+hash = "45f8c353b244099e4a31885161f4ef1975d00bfdeba26907d7c5ec2fd12e442c"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Fusing-sd5zePjNStSSuoW04WegtA==.json"
+hash = "e525b4af7e980fcbabcb05bc2d918a087b3c332c27d5bfd53bf78f6585c5fd14"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/HowtoExtractinat-S-G6BF23RPOAb2ZwiZB7uw==.json"
+hash = "851eb7febd2c2600cca12495ebbff5e68c7b790f100fc98b9291217b53b86688"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/LavaForever-yKPAFjuuRa-ct5flqbtjQA==.json"
+hash = "1652a9c605b02af4dae8aafb4b4d8011ab7927b36fabf10ffe72ec0b1b22177e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/MassProduction-J2A3CMyLQJWLceK9M83apg==.json"
+hash = "7b2e5dd5364885e3b454f99f01bfc95d92c1ba58541b25e9abd9639f85f53b77"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/NOTLogistics-eV1BdX6qTiSM-DAQM11TLA==.json"
+hash = "29abe5cf402ced55051672aff77a66d7565b3c9706bdf7c8a270cb08e0339987"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Pipeless-wAKom1nMT9egqN5LW6Z_9A==.json"
+hash = "c47e8e9561ee30dbfb3956eb158aca6cce2e69fc2282d9d58d456f926fd9eb87"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/QuestLine.json"
+hash = "a11fda8c4b1177c66f696fa7152ad857ff454af8c2b60b253a245e2d1b056c21"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Regrowth-W1dUSfYBRYqIQo71IVV8MQ==.json"
+hash = "bec061eb3ea2923686225145bbdb22cf9a527793f4f40a4324cc16cd1a8350c7"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/RockBreaking-1aEuzPlnRQaY6k1o9X19ww==.json"
+hash = "3d99d630de96d75279a43be7ca7192eafd3f7b7192c37696664b7b535337e08f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Stronze-QEJyflMpRDiutYQqGI8oUg==.json"
+hash = "3f6b45e6693dc11f8b428de8364128a22804250788372f1d63e36fc67aadf580"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Superheated-KL3toa-sTKq8ojVmlG3Jdw==.json"
+hash = "28f0b16ad3c7bccfd03de8a0b9f75cda70ea56108eb13a2a92e72ce3c627ae63"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/TheUnmatchedPowe-a7jn4e-OSfKElQ5WhlUlMw==.json"
+hash = "933e6324f7f936fd00b422edd321b67a54dda9929b427b592bc43bec75615e9a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/TheseThingsDoGro-iRXG2kSfT2irUO527ughPQ==.json"
+hash = "f704a2f59355c0670253f4b590f3b576813960b3dc276ec327dac5fa05641e88"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/WelcometoChapter-eHaeoPROSSWmX6tTXJaX5w==.json"
+hash = "f6ef1177524491555a4cf0d75c3884b7d6d8a59895ada1693cd1db5b6f2667e5"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/YouregoingtoLOVE-LDodKZyAQhiA1kdr4HxoWg==.json"
+hash = "e06ef653a41e0df58d67237da24b8ba45312e36476e6eae775018e18bb8fc858"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/thiswillneverbeB-_SSkFY3PRCatDhZi1xU94g==.json"
+hash = "a00957e95e81e6b8e52513f1c28e642c8ef12505e1e4a1368f3cddb2da8aa903"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/AdvancedHydrauli-F8kpJGKLR2i1taFBEEQ7DQ==.json"
+hash = "3d407d002c3332f38e751e9fff1ba12ba0e5b39fbb20aad4f0b60875980861ff"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/AlitlebitofSepar-YjHEc8t4RS21nAOL0hCiFw==.json"
+hash = "2b17e48844ded2e6f6c7c28d8553984e8eadad97e70b3dffcf91f9ba4fad1194"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Chevron-9AR6cFFdTZmSTXNewYnGPw==.json"
+hash = "e75ec023656e0b4bd6475143af6dfd91f9188931850f3de0f58a3efb355ecb3f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/ChevronBlock-BOWDVT5YQcOzjteLg6VPkQ==.json"
+hash = "2dba2b203a6d2cd57830df7d2978a5bb8422b2c187acb1c5476cc8a0551858c4"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/ChevronUpgrade-X020oIz9SCiiJhbmCGmLtQ==.json"
+hash = "41b236980eea9d29a952f15469c33bb54a4833a0ad62095d03ae8105556298e6"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/CompressedSteam-mJ4z0kDxSO-dsZtZ5BOMvQ==.json"
+hash = "e5f3f4e70fb89601cb708b63f508f28093184fa92f0f81c61d3ed97a8b2f510e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/CoreCrystal-3QfgXMVkTwyZTuuRKJgCKw==.json"
+hash = "39288097f3d3002d9f953b3e21e0b65d5d7576967ab8086598c1800610bdc003"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/EndgameSteamGene-d1lb3xB9T-G5sS47GLYcEQ==.json"
+hash = "29dc422708b15ac6b603091056a9f8bb202d2e8cc447bb334a91905ccc6134af"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Frame-LaMMK-_LTE-sNUjubbQZgQ==.json"
+hash = "b72632352f9342b0547001d3c724780f6dbdaf3738b376323014ad79412018bc"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/InfiniteCreation-aEoijugLS7G7R1qPnNXMZg==.json"
+hash = "14740a845bb019779895172a4eaf86d6b05b737cc5b25c06658fa8feed8ffdad"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/IntotheStream-iW4bJsRGQSu7_FiR1DjquA==.json"
+hash = "321cd89112c7fced614d9ae5c8550eb609b05062d1f645474f02e2ecadc0dc62"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/IrisBlade-md1HW0pQQ2OhgonRAL4joA==.json"
+hash = "da95506eaf69e6a4b48d5218b500c03d01df037f22ae9983adee7c5d2d999dbf"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/IrisUpgrade-n2WTjOt3TBK8X2b2W6TLZA==.json"
+hash = "d9223ec0d9536a30501911556eea171f8b5dc90145f693a1d2dd0ef772f70bed"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Mountainsatmaxap-riE5LIUFRYmWlIzd4wiOng==.json"
+hash = "04d6dc69905027006b358893c906cc3c87e2db36b3af5073c15d54ee48cd6298"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/NotthatbigofaCUB-W3u_ktw5RviSiDwklXqVrQ==.json"
+hash = "4599749e77e013c52a5dde2cd1d9e28f957a28c833c2f00fb948aa601b3923bb"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/OutoftheStream-Wj4COkJ5Rm60BH_z_HP6qQ==.json"
+hash = "f874388950e37768eabc8f29cd7e2af919bb09e1fe6c961577c0e398620d0621"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Plate-NbqZdOqbRuG8Xv-KYCajbA==.json"
+hash = "acee9d2b409ed56a87efe1f8f43824850570c134ec1f4ba41d21598469abc4b4"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/QuestLine.json"
+hash = "50ef568fca6c313c20ebc6deb1d99670947a6decd62c243e22e8c58bace9a127"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/RingBlock-4rdyNXpwQLG6n1QdWRK9JA==.json"
+hash = "42f6e4eb86159e07cbfa5098a17134cf9f635fccf7cdc2117ee46e21ef688d0d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/ScrubAtinyDubDub-R0otWWS8TFO1NYHPHe-Csg==.json"
+hash = "cbfde394e0114e12333571b7553fb6219d7b308822f5ed27b2d29de4b319ed7a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/SupercriticalSte-b5qQ79exTKGqlpoaJrdCfQ==.json"
+hash = "87746ef2af0f422541496c4bb781b369d09f16f6dd1e24012e10cbaaa245501f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Thanksforusingth-5BjWblhEQuaPM0FR8og1Pw==.json"
+hash = "2138e4889ed67b46f7b04cf958854a9b2991bbd194019c70f35b73cae8a30fde"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/TheSteamgate-4b1deRqfQ9ibu3FXSMQH4Q==.json"
+hash = "d18e40a6e5e3cba13867825e2ef9a693feff744c688f8beb2da066ea982a5a1e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/WelcometoChapter-xNqiQ98pTSyopIdUBOWdmQ==.json"
+hash = "28ba31a3b8da415d7c12231caddd38b44c09f258a8fdd9052080bdb65143eeb8"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/asmallBendingMac-eUPfiUfVSlarTsGoAt8JVg==.json"
+hash = "d8f4fe2acd75d1d4d0819f97fae17027684a012868b98ad370257ae8fc94b754"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/QuestLinesOrder.txt"
+hash = "dad07c66977bbd710b0fc61da10cbb68e2938090188a1d86e7683b64cd88c2d9"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Cracking80inFort-CH5qiP0xSQeI8qSlmB-p8A==.json"
+hash = "b72c81a1e3e768402a0fcd257e6aa16cc1ed72a9768ed73a349dc4e1764e801a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Idontworkunderpr-5rml588mTQSdm92-gs1LAQ==.json"
+hash = "ac3ff51e3e407e69ef8d96e07b4495a88cdc59c591201fd2cb167c869f336cd2"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Ihaveacrushinthi-Ymhfp3UzSliuqGDbf13R0A==.json"
+hash = "24bd730a27e818a5cbad1231136e1e6b75f5b336f7574f17c54d89c972070610"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Imtiredboss-KYUX4gk1QGqVuPD7vm3vvg==.json"
+hash = "bc18599830b6e09308e3151f9f5398e5a242d564d04934dfd8820c4d501287ab"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/ItsaBirdItsaPlan-NXjnXNeZTHSee3us9R7wAA==.json"
+hash = "afb5286873be4cd5aae2eb115547e66365b46586aa3df419a411a36262f8b118"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/LargeSteamCircui-CUKtyyJJRKKso_abB315Aw==.json"
+hash = "8195c41b0dbf6bbe19e5f13ba29acc9fcdbee0d5585daad70db7f58ccc3ccd3b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/LargeSteamSifter-Qcv_VVDDSkOnfaPnSI1Zag==.json"
+hash = "89f28501ff4c3d35843b6dc5f42af84fbcd1d61890f553ffe966d44c6a2e9c66"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Letsstartthefun-EVhlJXyIR3SmEIhMTUdsWA==.json"
+hash = "4933d3d9d2bd053c1e621247b6f2c62446a13637089eeb95031d69676c2d22e9"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Likeabathbutitsm-HK2N5iIXRXW756SbVMwtFg==.json"
+hash = "fc60c4f66004ea4f5f1fe565905d7b7bdfe036b79b1383a5d25a81511f0c8244"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Luxurybath-QpUkSgspQd-iMrURoH71Ig==.json"
+hash = "f476daac1cccd6e1f67493c9e6fb5694321bd7ed6282a019a124d4dc99510b13"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Morepotions-iOLi2d4BSQWEqzVXY6Zo4w==.json"
+hash = "4dd955715122e803f29cf0a68a8f6d86c8c860723fbdd30ee95aff28b469e74b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Nextstepontherec-TWRjEHnkRAy7xrYiUi-HSQ==.json"
+hash = "345fc1eab47fbfeb0945c826a7e618dac80b7700e3f3498787b85343a28a07ba"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Nojokesinthisone-BLoqkgLqSLmPobuYeMhXIw==.json"
+hash = "d265aaea89b5c0577d65bb1957f5a7c900b3cd09df959b3a5289f7564ba47bcf"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Onepiece-kgA5e3lzQ3-mSnGLPA4LcA==.json"
+hash = "0426b6c070da7483dfe4335781101a70a7f24c6c05e018465feebace62e0c003"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Potions-zeZf6CmWRsa3E7tMBjMCCw==.json"
+hash = "f2a151936d60b5b5949bcff90f82f9a21714c725eae49bdff4778b5b1e6c528b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Steamisgoodhasgo-KCBZKAt_RASCzrjeb5iejg==.json"
+hash = "a8006bb6a15aaeec4e37413f9470912ae43027a0d9f79a4fe51924ab36548a73"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Thistimeitsnothu-IAzmh1pwRbayb3c436tQcw==.json"
+hash = "0deb6d1dc18af8b496e4fb303410a456330b8f5e9e9267917fba84d6df230125"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Timetoupdatethef-NUwNtPHBSQGCLg7prayusA==.json"
+hash = "3c8350e748ef0e6c287c5f51889a6d2c00deb127c517da9a4af64765d00aae24"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Titaniumsteam-uMKnfyp_R0Go3spxtK6DHQ==.json"
+hash = "1d77e94200641543d3524ed2be66b35fcfe1d083e9b7308ac54061a87e14cb40"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Twoforone-DwDG-8-9RyG5po3ECpUb2Q==.json"
+hash = "693ef423e270632b0681fbaf11bf3ee0e1a35254a9f3195a1af0c8348062c804"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/Whatsortofmusicd-sLmbjGYlTYuHxpFynCb6rQ==.json"
+hash = "af4a26529a392041b93ca3610f432db794cb8958b4a902dd80d0426768f7f9d3"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/bigFurnace-7dKgjMt3T06JmnRpwBbhQg==.json"
+hash = "4b09bf4fc3133e020deeccd70be0bc005851271c16b40d5902cade966ab38662"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/bighammer-ynfZHvovT6ikdjN_nbWTuw==.json"
+hash = "ae56268784372b163c1e58a10ba03b8d4e9bc6fe2226a697665df29fc822357f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/centrifugewithfi-Ef54PxtMTVeukSNN4OeC6w==.json"
+hash = "2edb00c1834b0d680166914a9b0cc0c8fb3917fd807b05f19d4680130e630390"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/centrifugewithou-bLGH7bk7SfO3ncXts6YvtA==.json"
+hash = "283f7bde5e02dd2aa48d3067f0c92ad97c1513eb490075724fa21b3aa09408eb"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/likechangingthin-NwDsKCj6QjG1_qOSvFWXqw==.json"
+hash = "b3b1d797d2e5d2a521d5aeb31bbc8d616f48f3b04f40b185142e8d7c1cb7e17a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/meishungry-UODPZCyXT96ap5_4VL1FHA==.json"
+hash = "ae99348dab305232a6ff658ad9bee342e192d232a22018236fd4cc4f5b537492"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/steelandsteamthe-N90e1qSpShi9PyEBevNu7w==.json"
+hash = "a8ad2f0bf24d339a1b40d08584607379a3227a8e7b2441849013f68c7825f5eb"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/thesteamissafehe-BTIf3sCNQd63ETB87Rrxhw==.json"
+hash = "1a71f2de219b575d20aa3bc98300de3f0b9fe04385f81fab31277bf69fe27a4b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/thetrilogy-FSdtZ5KAT7mqUP_9B6VKIg==.json"
+hash = "f41e1673e5349ad44100f7ed6b409c2f8f39a7ae9351eff868f78331cffdc06e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/theyarestealingo-5AtEGgphRoePy0wTLv4yeA==.json"
+hash = "c40973856996c46fe7844b42e9b694a7dbec024d471b4cce361c93cb4e5c9a23"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/theyarestealingo-AKTZ8OihTGKOo10UVUtm_A==.json"
+hash = "68ae9f6d3b427a9c0cb9469cb29fcf409c3ef24b5292f2ec305370290e5bd455"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/theyarestealingo-v9BV-VNPRMaXhS0Sw-7lng==.json"
+hash = "393708c8921e926f8e98fe9f68001e763ba76e0e7d698a0032ed0e589bbd47e0"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/thiscanhelpyou-zU5UVZqtRyy90-OguuXzgQ==.json"
+hash = "5f188d42e3a689a103c246450b90ed3a99293a541595e78dbfffaa9e4a779e4f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/toomuchsteam-FkeJvfnWSoOmpWaHBjABEQ==.json"
+hash = "9bc130fc7018e6ddcb9d76ef9bdeeb7606efa6e317e499fd9c1554f4c9f8f870"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/truthserum-KXRCN2BdRHS11E8yzDPQag==.json"
+hash = "416d227ff3925fdbe2db1fab1f381fc6d4e423a084eb942d597f0cb9865bcccb"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/waitthatsnotbron-FfGW4aK1QV68FUDxMKY79g==.json"
+hash = "a746f9b64371cc72b5a50cccb2c80a35fb3c618896314805473f1146f8b1679a"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/waittheresasmall-35tEln3ESKSIFoatXK8zYA==.json"
+hash = "87f7c8ac0db16d6f74ff8c423d1d599364873bdc0d84dfb1c18690a5761d759b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/whyareyousodense-_oTOOgnIQDyClVMxKkaR9Q==.json"
+hash = "32be2ed5ec562d4c5d4c912620126ff44014b39c2dc1b743d281b1a5d16d2155"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/GTNotLeisure-7QkhBbarTqeCqDj8i8GoCA==/wowniceplush-SxHiUbfQSP28-l1VYKavnw==.json"
+hash = "082641cd87b3abaa4e5908a0e4e97e111f834c421429dab57414d230554a9e07"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Betterblawaitami-RA9eXJDzS32-ustOxyHgrQ==.json"
+hash = "b92cbfbdbdee9c62b3e6c76e30f5ea6787179ce61795ab0409d5249cb6f34c3f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Blending-1QM7Ia08R1Gr_s_bDHiSyA==.json"
+hash = "130f1cb62d285d60b1e646ff640e4647ec6b1602ea413d3c59aabb6d6e32d85d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Breel-9hskX6EZQeG8jrVDU0K_hw==.json"
+hash = "6149118c123b163b41334cd7b9a5bd9a65c597645af03f7b246a66185e527ec5"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/CactusWonder-SOJOLd3iRqmyYwt0H4f4BQ==.json"
+hash = "fc5164e8205dc661e52f03cf4a42a296d89f58084c00b5b83faa9cb616eed7f8"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Carpentry-KwkFvZTRRuuj8-M3KHy66A==.json"
+hash = "e61388722d5f5334d73688836efd6554ab7b24cd98b482740dc940ba598ce2a4"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/ClassicCoke-qa6pQlvZRB6OvjdaBdVw9Q==.json"
+hash = "ed2c174550e1314e874a228c39e693d4518d45dcf535b4e0c8020b68555ac7a0"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/ClayCompound-6A4wnmpkTOa08s8Yuttsvw==.json"
+hash = "e89bab7720fbdfc03da9dcfbdc23c7277698584ef3748ea8b42327868ab67983"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Conformingorpres-rcMamffGTseFyACA3i7zUQ==.json"
+hash = "be17a0a7d22702241affb3580d1cbc356293a5323c14529c27b9f3cb716813d5"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Credits-po4Ov0zsTbmn_zpuPQTyvQ==.json"
+hash = "e3b7604f58390ba2d263367505bde5682cb7c9aeacb5034868c374cbdd85e602"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Extractinating-SU-S_BoeStacdLPKW0_CGQ==.json"
+hash = "05802f271d08836f27f1e56c3985ebeb8e4cab15fd689f03e6ea1743fce9361e"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/ForgeoftheGods-SQo2-hr-TCasVo8_la0HKQ==.json"
+hash = "aa3efa95c5e14fd265413628dc43d5d14e4f3551eec1faec0e8f106d0c97ccad"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Fusing-sd5zePjNStSSuoW04WegtA==.json"
+hash = "760a1068da007a8e57f124399afd4b55282822dbd6535a73c4bae2d5c2d873cc"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/HowtoExtractinat-S-G6BF23RPOAb2ZwiZB7uw==.json"
+hash = "2a656205262be7b95df54c0d4b541c6518473146704b4d02e03ff8a15bb56f35"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/LavaForever-yKPAFjuuRa-ct5flqbtjQA==.json"
+hash = "f992f5241022e1f5fff4dc7fe743da2b57ce11e9020ac5431d6767d4088312f1"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/MassProduction-J2A3CMyLQJWLceK9M83apg==.json"
+hash = "20f28d6be1ef55f968791cc50bf8a86c83f163172209c72b4b66f2b54cb53839"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/NOTLogistics-eV1BdX6qTiSM-DAQM11TLA==.json"
+hash = "e750b4315baf3d3a410002cafab98f2fa12450600a7b1b9d940a07956158cb3f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Pipeless-wAKom1nMT9egqN5LW6Z_9A==.json"
+hash = "4cd67d32a03a65bdc51dae9c642324c75d37177776af46fabb05215d08a1b6ba"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Regrowth-W1dUSfYBRYqIQo71IVV8MQ==.json"
+hash = "0ac52ab84cfa019f0e27c3c5d65e593759807d9c355efcaf862106cbe367cd43"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/RockBreaking-1aEuzPlnRQaY6k1o9X19ww==.json"
+hash = "e0c258284e4f5dc856b22a2960cebc4c51368a3062e51613497ed563bfd7484f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Stronze-QEJyflMpRDiutYQqGI8oUg==.json"
+hash = "0a4ef271ab034ddbf3db02900035f65bc30f3d84ae869600c18fc8cc8dbb679f"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/Superheated-KL3toa-sTKq8ojVmlG3Jdw==.json"
+hash = "03933f9f8f3d9e2d57258db040c9f6d4a84490d4f05dac75be112bb33f6370d1"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/TheUnmatchedPowe-a7jn4e-OSfKElQ5WhlUlMw==.json"
+hash = "80795b4ecfecde78aa8c97942f9e49659203d121ba294cf3dfc0cf9e33f7a1c9"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/TheseThingsDoGro-iRXG2kSfT2irUO527ughPQ==.json"
+hash = "d6d804e2863af44ac072c7eb5ae5e954a3573164c6b964d636cc655e9ef7fe41"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/WelcometoChapter-eHaeoPROSSWmX6tTXJaX5w==.json"
+hash = "50484f5b37605fe83f0276ddba5e3f189cc2fffd989f386a2854249c49c1a7f4"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/YouregoingtoLOVE-LDodKZyAQhiA1kdr4HxoWg==.json"
+hash = "b51a8789519b58197e42a2755c3fd12cc37b4ab6b4ccd192fd4d79b286f145ce"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier075Superheat-4XK2_HIjQtCOHDmbipAb8w==/thiswillneverbeB-_SSkFY3PRCatDhZi1xU94g==.json"
+hash = "e6b9cd8c6c31407ab1b9865505346e05981a46996ed1dd1d16205bfe872df41d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/AdvancedHydrauli-F8kpJGKLR2i1taFBEEQ7DQ==.json"
+hash = "890a5c4dd40404efd997b0d5bbe41da954d0956f07df77fb6da0449914befb74"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/AlitlebitofSepar-YjHEc8t4RS21nAOL0hCiFw==.json"
+hash = "37c8e4418527cb6e18e67766073bd4cb8a2f9139cd824701e6f390d0579402e3"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Chevron-9AR6cFFdTZmSTXNewYnGPw==.json"
+hash = "68e574b14cbf7a57959e1d78c3690851e84e1ebd00ff58b5cb47462b34b80609"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/ChevronBlock-BOWDVT5YQcOzjteLg6VPkQ==.json"
+hash = "ad1acbc8dfbb6ad16f5c772ae76af3ac7660cb2919a46cb0033371df7d9745f3"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/ChevronUpgrade-X020oIz9SCiiJhbmCGmLtQ==.json"
+hash = "ef90b0d5cebf4e22f2074b1daf9e2743c842c36dcf35114b8b8e0ba24a7c3012"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/CompressedSteam-mJ4z0kDxSO-dsZtZ5BOMvQ==.json"
+hash = "03e77e16a548821b13661cb70552d52f36efc9931a032d6b03a4ec82578e9bf8"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/CoreCrystal-3QfgXMVkTwyZTuuRKJgCKw==.json"
+hash = "4bb82b57d009bc56f7bc98248b4fb89662802df721d4476edc6be5a66a186295"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/EndgameSteamGene-d1lb3xB9T-G5sS47GLYcEQ==.json"
+hash = "5bd019aef9f8f427ab74886ecb5ef18ce2706622874723f29d5136ac85e0a1b0"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Frame-LaMMK-_LTE-sNUjubbQZgQ==.json"
+hash = "0eba3e5b40901f1e0f0f1bc46c26c19c788008cb4589622efbd079e64a929e94"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/InfiniteCreation-aEoijugLS7G7R1qPnNXMZg==.json"
+hash = "2b85d1ebaccad7efb29472da7acfd8879ef880975a7a921ec044e54ee2f275dd"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/IntotheStream-iW4bJsRGQSu7_FiR1DjquA==.json"
+hash = "57e2a4fdfb2d8256cb16d7455a8c7a7954f4e64afdcc18e9c7be43b6bea36235"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/IrisBlade-md1HW0pQQ2OhgonRAL4joA==.json"
+hash = "9bb388154516be6066ed20eb576446992756d524704a4ba822c864ca0221af9b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/IrisUpgrade-n2WTjOt3TBK8X2b2W6TLZA==.json"
+hash = "f9ec4a45a2b3400f93f2898cc7cf31e35f106e2d8306b134584ac3b0f8f5bd05"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Mountainsatmaxap-riE5LIUFRYmWlIzd4wiOng==.json"
+hash = "6ebfa5d5984cd55c5e5d3fb6d10de6c29da516aa56b51a268433072200752660"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/NotthatbigofaCUB-W3u_ktw5RviSiDwklXqVrQ==.json"
+hash = "83bd5a7e48ef06faa6c8bd4afdbda8fc5405952ea3a05564188e68e1f17890d7"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/OutoftheStream-Wj4COkJ5Rm60BH_z_HP6qQ==.json"
+hash = "52f3fad1a0120b77b906b02846515efe38ead704e7c630d96f2dd5220b599f35"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Plate-NbqZdOqbRuG8Xv-KYCajbA==.json"
+hash = "6d24da8422d8e599d817ed930379cffd28d6c38d3527ce20c1c1e6a11c80042b"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/RingBlock-4rdyNXpwQLG6n1QdWRK9JA==.json"
+hash = "8f7bf9a64b9e252acc8e6c6268eabf7eeb8aa9c9c705d477cbc9ba071585ca0d"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/ScrubAtinyDubDub-R0otWWS8TFO1NYHPHe-Csg==.json"
+hash = "5c545ca4ecd0e2a19eb6c6afb9b4c9e4d40ef2db64fc3f9b44e320869ae61790"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/SupercriticalSte-b5qQ79exTKGqlpoaJrdCfQ==.json"
+hash = "7e573042c9b163fb7c10c91b923b9f00f0e21a7bebbbb680ded91602576f50fd"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/Thanksforusingth-5BjWblhEQuaPM0FR8og1Pw==.json"
+hash = "5fef9c4c5700a25c945dd0dc295b7d4a5d3112bda4a99bda81a482acb84f8ef7"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/TheSteamgate-4b1deRqfQ9ibu3FXSMQH4Q==.json"
+hash = "f35e6da3216414cdc3fc5e88e44de22d489b3b6c2046575d5965cbee947488c5"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/WelcometoChapter-xNqiQ98pTSyopIdUBOWdmQ==.json"
+hash = "14c8431fef011216bdcc87454f9ce5faa6c6f01a60a9a61de0869669f92cc500"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/Tier0999Supercri-yB-ZazZHT2mOTmNur_NMGw==/asmallBendingMac-eUPfiUfVSlarTsGoAt8JVg==.json"
+hash = "75b6ca16da1233b59a08f5d90639f136e5a007067bdefe152d1b02c0dec369f4"
+
+[[files]]
 file = "config/biomesoplenty/biomegen.cfg"
 hash = "b33198bf48ded1bcd2c609bcfa65a2bee31d10439ba18079cfb7b4feb3418b93"
 
