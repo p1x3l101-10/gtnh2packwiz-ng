@@ -1666,6 +1666,10 @@ file = "servers.dat"
 hash = "ad81b2ae85ab125430ade400834859da58e053df756b78ff8ab3fa20c0fcb090"
 
 [[files]]
+file = "serverutilities/serverutilities.cfg"
+hash = "70e24aa320cd85c72f5a11dab17d4ba5ad1a1092c6d7e4561e2f974c47fc77d6"
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
