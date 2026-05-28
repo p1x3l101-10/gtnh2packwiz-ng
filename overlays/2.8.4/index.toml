@@ -1617,6 +1617,11 @@ hash = "12c473f335d118fae33c302f3afb4240192d69492800938f73511a43a17b45d3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dark-gtnh-reimagined.pw.toml"
+hash = "a356420cdb014d8be91daa29b2269f40916188afdf1eff1f0807eccd988aa619"
+metafile = true
+
+[[files]]
 file = "resourcepacks/gtnh-refreshed.pw.toml"
 hash = "d80978ec6b503b1e68890bd6af4608861406b27bf0d3f9f39f1327b6e131b2ca"
 metafile = true

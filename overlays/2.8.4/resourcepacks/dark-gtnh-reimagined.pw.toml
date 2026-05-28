@@ -1,0 +1,13 @@
+name = "Dark GTNH Reimagined"
+filename = "DarkReimagined_2.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/esoZZPZH/versions/jsM9XVns/DarkReimagined_2.0.1.zip"
+hash-format = "sha512"
+hash = "487a20b4d26f02b72f5966f4f0398e0584560bc030483a6779db247829a6200ef8fd9271534720e831f5e6e0efef37cd96ac9d9e48b5443db948503360bfdc7e"
+
+[update]
+[update.modrinth]
+mod-id = "esoZZPZH"
+version = "jsM9XVns"
