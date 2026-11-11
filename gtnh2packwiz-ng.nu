@@ -45,7 +45,14 @@ def main [] {
   ([ "True pack version is" $packConfigVersion] | str join " ") | log $lvl.trace
   let packDlInfo = $packAssets.config.versions | where $it.version_tag == $packConfigVersion | get 0
   let packZip = $sysTempDir | path join $packDlInfo.filename
-  let packDownload = $packDlInfo.browser_download_url
+  #let packDownload = $packDlInfo.browser_download_url
+  let packDownload = (
+    {
+      scheme: https
+      host: github.com
+      path: ("/GTNewHorizons/GT-New-Horizons-Modpack/archive/refs/tags" | path join $"($packConfigVersion).zip")
+    } | url join
+  )
 
   if (not ($packZip | path exists)) {
     "Downloading pack configs" | log
@@ -132,7 +139,7 @@ def main [] {
       x-manifest-path: $mod.manifestPath
       name: $mod.name
       filename: $modVersion.filename
-      side: ($mod.side | str downcase | str replace "_java9" "")
+      side: ($mod.side | str lowercase | str replace "_java9" "")
       download: {
         url: $downloadUrl
         "hash-format": sha256
