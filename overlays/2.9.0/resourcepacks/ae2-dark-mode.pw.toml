@@ -1,0 +1,15 @@
+name = "AE2-Dark-Mode"
+filename = "AE2-Dark-Mode.v.1.24.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Ranzuu/AE2-Dark-Mode/releases/download/v.1.24/AE2-Dark-Mode.v.1.24.zip"
+hash-format = "sha256"
+hash = "bc40a890b7c29a58358d22a0bc063a7da02c8abd182cb2891616d7c33cae5aed"
+
+[update]
+[update.github]
+branch = "main"
+regex = ".*\\..*\\.zip"
+slug = "Ranzuu/AE2-Dark-Mode"
+tag = "v.1.24"

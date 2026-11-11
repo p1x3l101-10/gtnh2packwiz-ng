@@ -1,0 +1,15 @@
+name = "Programmable-Hatches-Mod"
+filename = "programmablehatches-0.1.3p55.jar"
+side = "both"
+
+[download]
+url = "https://github.com/reobf/Programmable-Hatches-Mod/releases/download/v0.1.3p55-beta/programmablehatches-0.1.3p55.jar"
+hash-format = "sha256"
+hash = "9d59ce810b87d1a98b53be1ba6513899fc84d029127a2f37506a373b1be008e4"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "reobf/Programmable-Hatches-Mod"
+tag = "v0.1.3p55-beta"

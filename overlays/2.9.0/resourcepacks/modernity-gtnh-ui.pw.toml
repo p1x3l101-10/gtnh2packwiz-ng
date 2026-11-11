@@ -1,0 +1,15 @@
+name = "Modernity-GTNH-UI"
+filename = "Modernity-GTNH-UI-2026-10-26.zip"
+side = "client"
+
+[download]
+url = "https://github.com/ModernityGTNH/Modernity-GTNH-UI/releases/download/weekly-2026-10-26/Modernity-GTNH-UI-2026-10-26.zip"
+hash-format = "sha256"
+hash = "c6b85e90c89ef98e368d3edb92c25665b1d09410a488220609809170d993d193"
+
+[update]
+[update.github]
+branch = "main"
+regex = ".*\\-[0-9]{4}.*\\.zip"
+slug = "ModernityGTNH/Modernity-GTNH-UI"
+tag = "weekly-2026-10-26"

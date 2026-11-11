@@ -1,0 +1,13 @@
+name = "Modernity Adjunct"
+filename = "ModernityAdjunct-f1-1.7.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pS9o7zup/versions/a4L41PU7/ModernityAdjunct-f1-1.7.1.zip"
+hash-format = "sha512"
+hash = "5066e8c7b3bfab6cbc8f4af8ca6d69a4204a7cb0f7bce22b7a910c4b816f418a909c0a58a8a018e046a04219c16867d97ecc17e99602ae86340905e1a735abb8"
+
+[update]
+[update.modrinth]
+mod-id = "pS9o7zup"
+version = "a4L41PU7"

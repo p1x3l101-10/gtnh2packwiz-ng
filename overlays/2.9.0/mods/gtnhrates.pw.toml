@@ -1,0 +1,15 @@
+name = "GTNHRates"
+filename = "gtnhrates-1.12.0-2.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Sladki/GTNHRates/releases/download/1.12.0-2.9/gtnhrates-1.12.0-2.9.jar"
+hash-format = "sha256"
+hash = "d67dc2061669150ee6dbf1d5757a15c99c97ec80eac5bf462fd9e284bc47ef3e"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Sladki/GTNHRates"
+tag = "1.12.0-2.9"

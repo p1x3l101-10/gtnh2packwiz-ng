@@ -1,0 +1,15 @@
+name = "DynamicSurroundings"
+filename = "DynamicSurroundings-1.7.10-1.0.9.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/mist475/DynamicSurroundings/releases/download/1.0.9.0/DynamicSurroundings-1.7.10-1.0.9.0.jar"
+hash-format = "sha256"
+hash = "8f0af468e921588fb2208ae064961a060567467f9654c85fd63a55e280051bf1"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "mist475/DynamicSurroundings"
+tag = "1.0.9.0"
