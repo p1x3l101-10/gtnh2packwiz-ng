@@ -1,6 +1,6 @@
 export const config = {
   assemblerRepo: "https://github.com/GTNewHorizons/DreamAssemblerXXL"
-  version: "2.8.4"
+  version: "2.9.0"
 }
 
 export use base.nu
