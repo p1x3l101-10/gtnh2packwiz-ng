@@ -14,5 +14,6 @@ def main [] {
     packwiz applyOverlay $packDir $overlayDir $outDir
   } else {
     "No overlay to apply" | log
+    cp $packDir $outDir
   }
 }
