@@ -3,6 +3,7 @@
 const mavenUrl = "https://nexus.gtnewhorizons.com/repository/releases"
 
 const mavenCoordDB = {
+  "Automagy-GTNH": "tuhljin/automagy/Automagy-GTNH"
   "Catwalks-2": "com/github/GTNewHorizons/Catwalks-2"
   "Galaxy-Space-GTNH": "com/github/GTNewHorizons/Galaxy-Space-GTNH"
   "harvestcraft": "com/github/GTNewHorizons/harvestcraft"
@@ -20,9 +21,12 @@ const versionCorrections = {
 }
 
 const versionAlterations = {
-  # Source went down, perhaps I can fudge it slightly with a newer version?
   "Tinkers-Gregworks": {
+    # Source went down, perhaps I can fudge it slightly with a newer version?
     "1.0.28": "GTNH-1.0.30"
+    # ...Sigh, the whole version page is screwy
+    # TODO: Automate prefixing GTNH- in the version
+    "1.0.34": "GTNH-1.0.34"
   }
 }
 
