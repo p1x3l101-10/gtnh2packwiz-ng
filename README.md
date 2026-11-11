@@ -13,7 +13,7 @@ To change the version being built, update the version number in [`./util/mod.nu`
 
 ---
 ## Requirements
-- [Nushell](https://www.nushell.sh/) version 0.112.2
+- [Nushell](https://www.nushell.sh/) version 0.116.1
     - Should work with other versions, but this is the version I used for development and Nushell updates tend to break things occasionally
 - An unzip binary on your `$PATH`
 - A POSIX compliant system

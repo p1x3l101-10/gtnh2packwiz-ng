@@ -95,7 +95,7 @@ def main [] {
       ($releaseManifest | get external_mods | items { |k,v| { name: $k, ...$v }} | each { insert type "external" })
     ] | flatten | each { |mod|
       {
-        manifestPath: $"mods/($mod.name | str downcase).pw.toml"
+        manifestPath: $"mods/($mod.name | str lowercase).pw.toml"
         ...$mod
       }
     }
