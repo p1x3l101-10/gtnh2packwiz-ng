@@ -56,7 +56,6 @@ def main [] {
 
   if (not ($packZip | path exists)) {
     "Downloading pack configs" | log
-    print $packDownload
     http get $packDownload | save -fp $packZip
   }
 
