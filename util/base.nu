@@ -6,10 +6,6 @@ export-env {
     use std/dirs []
 }
 
-export def mktemp [] {
-  $nu.temp-dir | path join (random uuid)
-}
-
 export def agecheck [
   maxAge: duration
 ] {
@@ -31,7 +27,7 @@ export def extract [
       rm -r $destPath
     }
   }
-  let tempDir = mktemp
+  let tempDir = mktemp --directory
   mkdir $tempDir
   dirs add $tempDir
   ^unzip $zipFile
